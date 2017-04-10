@@ -83,7 +83,7 @@ public class TwitterPorukaTest {
 		tp.setKorisnik("Sasa");
 		tp.setPoruka("prva poruka");
 		String test= tp.toString();
-		assertEquals("KORISNIK:"+ "Sasa"+"PORUKA"+"prva poruka", test);
+		assertEquals("KORISNIK:"+ "Sasa"+" PORUKA:"+"prva poruka", test);
 	}
 
 }
