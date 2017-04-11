@@ -3,7 +3,7 @@ package com.twitter.poruke;
  * 
  * 
  * Klasa TwitterPoruka ima atribute: String korisnik i String poruka
- * @version 1.0
+ * @version 2.0
  *@author Aleksandra Rakic
  */
 public class TwitterPoruka {

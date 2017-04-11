@@ -7,7 +7,7 @@ package com.twitter;
 	
 	/**
 	 * Klasa Twitter ima atribut poruke i metode vratiSvePoruke, unesi i vratiPoruke
-	 * @version 1.0
+	 * @version 2.0
 	 * @author Aleksandra Rakic
 	 *
 	 */
